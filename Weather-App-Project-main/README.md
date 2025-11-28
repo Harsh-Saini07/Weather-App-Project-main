@@ -29,7 +29,7 @@ const apiKey = "YOUR_API_KEY_HERE";
 Save the file and refresh your browser.
 
 # Credits:
-Developed by Ritik Sharma using JavaScript and OpenWeatherMap API.
+Developed by Harsh Saini using JavaScript and OpenWeatherMap API.
 
 # License:
 This project is open-source and free to use.
